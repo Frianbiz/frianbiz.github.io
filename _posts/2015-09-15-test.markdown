@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Test new post"
+date:   2015-09-15 09:06:26
+categories: jekyll update
+---
+
+#test...
